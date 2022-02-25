@@ -1,3 +1,4 @@
+To start the project download the files, run npm install react-scripts then npm start in the directory.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
