@@ -1,0 +1,12 @@
+path:hover{
+  cursor: pointer;
+  fill:red;
+}
+.MapContainer{
+  width: 2000px;
+  height: 1500px;
+}
+.image{
+  width: inherit;
+  height: inherit;
+}
